@@ -9,26 +9,25 @@
 ## Simple Flask APP
    -Defined three model classes: Movies,Director and Genre
    -Created four routes:
-   
     * `/index` -> `index.html` - shows the home page
     
-         ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/homepage.png)  
+   ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/homepage.png)  
       
       
-    * `/all_movies` -> `all_movies.html`  - shows all movies
+   * `/all_movies` -> `all_movies.html`  - shows all movies
     
-         ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/all_movies.png)  
+        ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/all_movies.png)  
          
          
-    * `/all_directors` -> `all_directors.html`  - shows all directors
+   * `/all_directors` -> `all_directors.html`  - shows all directors
     
-         ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/all_directors.png)  
+        ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/all_directors.png)  
          
          
-    * `/movie/new/<title>/<director>/<genre>` - create a new movie
+   * `/movie/new/<title>/<director>/<genre>` - create a new movie
     
-         ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/save.png)
-         ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/saved.png)
+        ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/save.png)
+        ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/saved.png)
      
 
     
