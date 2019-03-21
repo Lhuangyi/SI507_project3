@@ -7,9 +7,12 @@
    
    
 ## Simple Flask APP
+   
    -Defined three model classes: Movies,Director and Genre
+   
    -Created four routes:
-    * `/index` -> `index.html` - shows the home page
+   
+   * `/index` -> `index.html` - shows the home page
     
    ![Image text](https://github.com/Lhuangyi/SI507_project3/blob/master/Project_3/images/homepage.png)  
       
